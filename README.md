@@ -4,4 +4,4 @@ https://ascii-art-midjourney.netlify.app/
 
 ### custom
 
-use query like: [https://ascii-art-midjourney.netlify.app/?title=OpenAI]
+use query like: https://ascii-art-midjourney.netlify.app/?title=OpenAI
